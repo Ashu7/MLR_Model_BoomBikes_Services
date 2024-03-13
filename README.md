@@ -33,7 +33,7 @@
 - seaborn: 0.12.2
 
 ## Contact
-Created by [@Ashu7] - feel free to contact me!
+Created by [@aasshhuu] - feel free to contact me!
 
 
 <!-- Optional -->
