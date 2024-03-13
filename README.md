@@ -25,9 +25,12 @@
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 
 ## Technologies Used
-- pandas, numpy
-- sklearn
-- matplotlib
+- pandas:2.0.3
+- numpy:1.24.3
+- sklearn: 1.3.0
+- statsmodel.api: 0.14.0
+- matplotlib.pylab: 1.24.3
+- seaborn: 0.12.2
 
 ## Contact
 Created by [@Ashu7] - feel free to contact me!
