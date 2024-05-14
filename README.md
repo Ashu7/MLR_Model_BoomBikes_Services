@@ -1,5 +1,4 @@
-# Project Name
-> Outline a brief description of your project.
+# Multiple Linear Regression Model for Boom Bikes Services
 
 
 ## Table of Contents
